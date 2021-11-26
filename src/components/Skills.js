@@ -1,8 +1,8 @@
-import React, {component} from 'react';
+import React, { Component } from 'react'
 
-export default class Skills extends component {
+export default class Skills extends Component {
     render() {
-        return(
+        return (
             <div>
                 
             </div>
