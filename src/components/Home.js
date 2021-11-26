@@ -1,4 +1,11 @@
 import React, {component} from 'react';
+import Navbar from './Navbar';
+import Profile from  './Profile';
+import About from './About';
+import Skills from './Skills';
+import Experiance from './Experiance';
+import Education from './Education';
+import Portfolio from './Portfolio';
 
 export default class Home extends component {
     render() {
